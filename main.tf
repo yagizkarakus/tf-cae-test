@@ -15,6 +15,6 @@ provider "huaweicloud" {
 
 resource "huaweicloud_cae_application" "test" {
 environment_id = "72a8bad7-b180-4881-929c-969a4ebce2b8"
-name           = "sdlşfas"
+name           = "asdasd"
 region = "tr-west-1"
 }
